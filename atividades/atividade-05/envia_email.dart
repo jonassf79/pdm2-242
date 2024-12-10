@@ -4,7 +4,7 @@ import 'package:mailer/smtp_server.dart';
 void main() async {
 
   String username = 'jonasfreitas016@gmail.com';
-  String password = 'sxzq pxjw sklf lgmo';
+  String password = '';
 
   final smtpServer = gmail(username, password);
 
