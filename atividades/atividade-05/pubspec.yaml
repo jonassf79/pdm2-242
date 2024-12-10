@@ -1,0 +1,12 @@
+name: envia_email.dart
+description: Uma breve descrição do projeto.
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dependencies:
+  flutter: 
+    sdk: flutter
+  mailer: ^7.1.0 # Verifique se esta é a versão mais recente
+
+# Adicione outras dependências ou configurações necessárias para seu projeto
