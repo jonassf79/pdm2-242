@@ -1,0 +1,16 @@
+name: sqlite_async_app
+description: A simple Dart project using JSON storage.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  # Nenhuma dependência do Flutter, apenas dependências para Dart puro
+  path: ^1.8.0
+
+dev_dependencies:
+  test: ^1.16.0
+
+executables:
+  sqlite_async_app: lib/main.dart
